@@ -27,7 +27,7 @@ navigation: # Navigation links
 
 tagline: >
   我的目标是每分钟让这个世界上少一个失业的人，多一个自给自足的个体
-hero_img:posts/foxfx.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/foxfx.jpg
+hero_img: posts/foxfx.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/foxfx.jpg
 
 email: your-email@domain.com # email for form submission
 
