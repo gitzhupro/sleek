@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: ERIC祝 # 祝
+title: 一人企业 # 一人企业
 author: GitHub User # You :P
 description: > # Meta description of Homepage
   Write an awesome description for your new site here. You can edit this
@@ -26,7 +26,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  小祝的个人网站
+  我的目标是每分钟让这个世界上少一个失业的人，多一个自给自足的个体
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: your-email@domain.com # email for form submission
