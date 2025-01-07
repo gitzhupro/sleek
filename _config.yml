@@ -10,7 +10,7 @@ url: "https://janczizikow.github.io/" # the base hostname & protocol for your si
 
 # SEO PLUGIN
 social:
-  name: ERIC祝
+  name: 一人企业
   links:
     - https://twitter.com/BenBalter
     - https://www.facebook.com/ben.balter
@@ -27,7 +27,7 @@ navigation: # Navigation links
 
 tagline: >
   我的目标是每分钟让这个世界上少一个失业的人，多一个自给自足的个体
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: assets/img/posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: your-email@domain.com # email for form submission
 
